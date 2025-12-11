@@ -34,8 +34,7 @@ The project uses the **Breast Cancer Wisconsin (Diagnostic)** dataset via
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Exploring_Bagging_and_Boosting_on_the_Breast_Cancer_Wisconsin_Dataset.git
-cd Exploring_Bagging_and_Boosting_on_the_Breast_Cancer_Wisconsin_Dataset
+https://github.com/billmonte23/Exploring_Bagging_and_Boosting_on_the_Breast_Cancer_Wisconsin_Dataset.git
 ```
 
 ### 2. (Recommended) Create & activate a virtual environment
@@ -54,12 +53,6 @@ The project requires Python 3.x and common ML libraries:
 - matplotlib  
 - seaborn  
 - scikit-learn  
-
-Install them with:
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
@@ -99,7 +92,7 @@ Steps taken to ensure accessibility:
 - High-contrast, colour-blind-friendly plot styles  
 - Alt text added for all figures  
 - Clear markdown headings + simple language explanations  
-- Video presentations (optional) can include auto-generated transcript & captions  
+- A Report writing 
 
 ---
 
